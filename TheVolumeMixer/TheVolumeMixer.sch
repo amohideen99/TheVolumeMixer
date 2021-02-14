@@ -1341,4 +1341,6 @@ NoConn ~ 3300 4700
 NoConn ~ 4700 4100
 NoConn ~ 4700 4200
 NoConn ~ 4700 2200
+Text Notes 1150 3550 0    50   ~ 0
+Pins with NC\nare unusable bc\nnot available with\nFeather M0 firmware
 $EndSCHEMATC
