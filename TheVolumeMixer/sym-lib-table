@@ -1,2 +1,4 @@
 (sym_lib_table
+  (lib (name max9778)(type Legacy)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/KiCad Libraries/max9778.lib")(options "")(descr ""))
+  (lib (name SJ1-354X_Audiojack)(type Legacy)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/KiCad Libraries/SJ1-354X Audiojack.lib")(options "")(descr ""))
 )
