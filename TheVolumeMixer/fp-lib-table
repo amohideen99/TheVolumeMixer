@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SJ1-3544 - Audio Jack")(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/SJ1-3544 - Audio Jack")(options "")(descr ""))
+  (lib (name "PEC11R-4215K-S0012 Rotary Encoder")(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/PEC11R-4215K-S0012 Rotary Encoder")(options "")(descr ""))
+)

@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name max9778)(type Legacy)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/KiCad Libraries/max9778.lib")(options "")(descr ""))
-  (lib (name SJ1-354X_Audiojack)(type Legacy)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/KiCad Libraries/SJ1-354X Audiojack.lib")(options "")(descr ""))
+  (lib (name SJ1-3544)(type Legacy)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/SJ1-3544 - Audio Jack/SJ1-3544.lib")(options "")(descr ""))
+  (lib (name PEC11R-4215K-S0012)(type Legacy)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/PEC11R-4215K-S0012 Rotary Encoder/PEC11R-4215K-S0012.lib")(options "")(descr ""))
 )
