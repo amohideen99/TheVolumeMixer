@@ -729,10 +729,10 @@ F 3 "" H 11550 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Rotary_Encoder_Switch SW4
+L Device:Rotary_Encoder_Switch SW3
 U 1 1 602EA7C8
 P 2500 11700
-F 0 "SW4" H 2500 12067 50  0000 C CNN
+F 0 "SW3" H 2500 12067 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 2500 11976 50  0000 C CNN
 F 2 "PEC11R-4215K-S0012 Rotary Encoder:PEC11R4220KS0024" H 2350 11860 50  0001 C CNN
 F 3 "~" H 2500 11960 50  0001 C CNN
@@ -764,10 +764,10 @@ Wire Wire Line
 Wire Wire Line
 	2200 11600 1800 11600
 $Comp
-L Device:Rotary_Encoder_Switch SW3
+L Device:Rotary_Encoder_Switch SW4
 U 1 1 603045FE
 P 4450 10450
-F 0 "SW3" H 4450 10817 50  0000 C CNN
+F 0 "SW4" H 4450 10817 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 4450 10726 50  0000 C CNN
 F 2 "PEC11R-4215K-S0012 Rotary Encoder:PEC11R4220KS0024" H 4300 10610 50  0001 C CNN
 F 3 "~" H 4450 10710 50  0001 C CNN
@@ -1234,9 +1234,9 @@ Wire Wire Line
 	2250 5200 2600 5200
 NoConn ~ 2600 3200
 Text Label 1600 4300 0    50   ~ 0
-USB_DM
+USB_D-
 Text Label 1600 4400 0    50   ~ 0
-USB_DP
+USB_D+
 Wire Wire Line
 	1600 4400 2600 4400
 Wire Wire Line
@@ -2240,9 +2240,9 @@ Wire Wire Line
 Wire Wire Line
 	1850 9100 1950 9100
 Text Label 1500 8800 0    50   ~ 0
-USB_DM
+USB_D-
 Text Label 1500 8950 0    50   ~ 0
-USB_DP
+USB_D+
 Wire Wire Line
 	1500 8950 1950 8950
 Wire Wire Line
@@ -2399,4 +2399,37 @@ Wire Wire Line
 	10250 7300 10600 7300
 Wire Wire Line
 	10250 7700 10600 7700
+$Comp
+L Mechanical:MountingHole MH1
+U 1 1 6033F8C6
+P 6550 11550
+F 0 "MH1" H 6650 11596 50  0000 L CNN
+F 1 "MountingHole" H 6650 11505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 6550 11550 50  0001 C CNN
+F 3 "~" H 6550 11550 50  0001 C CNN
+	1    6550 11550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole MH2
+U 1 1 6033FA9B
+P 6550 11800
+F 0 "MH2" H 6650 11846 50  0000 L CNN
+F 1 "MountingHole" H 6650 11755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 6550 11800 50  0001 C CNN
+F 3 "~" H 6550 11800 50  0001 C CNN
+	1    6550 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole MH3
+U 1 1 6035CD7D
+P 6550 12050
+F 0 "MH3" H 6650 12096 50  0000 L CNN
+F 1 "MountingHole" H 6650 12005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" H 6550 12050 50  0001 C CNN
+F 3 "~" H 6550 12050 50  0001 C CNN
+	1    6550 12050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
