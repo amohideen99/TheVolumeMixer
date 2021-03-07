@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.508)
+    (last_trace_width 0.25)
     (user_trace_width 0.1524)
     (user_trace_width 0.2032)
     (user_trace_width 0.254)
@@ -668,6 +668,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/82548PLCC-2_package_3D.stp"
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
+    )
   )
 
   (module LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW (layer F.Cu) (tedit 59D415EA) (tstamp 606DF5A5)
@@ -710,6 +715,11 @@
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/82548PLCC-2_package_3D.stp"
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
@@ -759,6 +769,11 @@
       (net 55 "Net-(J8-Pad4)"))
     (model "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/SJ1-3544 - Audio Jack/CUI_DEVICES_SJ1-3544.step"
       (offset (xyz -6 0 6.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
+    )
+    (model "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/Audio Jack - SJ1-3544/CUI_DEVICES_SJ1-3544.step"
+      (offset (xyz -6.5 0 6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
@@ -2743,6 +2758,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/82548PLCC-2_package_3D.stp"
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
+    )
   )
 
   (module LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW (layer F.Cu) (tedit 59D415EA) (tstamp 6044B0AD)
@@ -2784,7 +2804,12 @@
     (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Cree-PLCC4_3.2x2.8mm_CCW.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 90 0 90))
+    )
+    (model "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/82548PLCC-2_package_3D.stp"
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
@@ -2829,6 +2854,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/82548PLCC-2_package_3D.stp"
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
+    )
   )
 
   (module LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW (layer F.Cu) (tedit 59D415EA) (tstamp 6044B0D9)
@@ -2870,7 +2900,12 @@
     (model ${KISYS3DMOD}/LED_SMD.3dshapes/LED_Cree-PLCC4_3.2x2.8mm_CCW.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 90 0 90))
+    )
+    (model "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/82548PLCC-2_package_3D.stp"
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
