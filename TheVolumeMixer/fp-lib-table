@@ -1,6 +1,7 @@
 (fp_lib_table
   (lib (name "SJ1-3544 - Audio Jack")(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/SJ1-3544 - Audio Jack")(options "")(descr ""))
-  (lib (name "PEC11R-4215K-S0012 Rotary Encoder")(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/PEC11R-4215K-S0012 Rotary Encoder")(options "")(descr ""))
   (lib (name TheVolumeMixer)(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/TheVolumeMixer")(options "")(descr ""))
-  (lib (name "B3S-1000 -- Button")(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/B3S-1000 -- Button")(options "")(descr ""))
+  (lib (name "Potentiometer - PTV09A-4020F-B203")(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/Potentiometer - PTV09A-4020F-B203")(options "")(descr ""))
+  (lib (name "KiCad Libraries")(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/KiCad Libraries")(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri "C:/Users/Ahkeel Mohideen/Google Drive/Personal STEM Projects/The Volume Mixer/TheVolumeMixer/Notes/Class D Amp - TPA2017D2/KiCAD/2021-03-07_05-48-01/footprints.pretty")(options "")(descr ""))
 )
