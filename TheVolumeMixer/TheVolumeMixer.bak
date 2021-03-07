@@ -240,36 +240,36 @@ Text Label 9700 2000 0    50   ~ 0
 D1_G
 Text Label 9700 2200 0    50   ~ 0
 D1_B
-Text Label 9700 2750 0    50   ~ 0
-D2_R
-Text Label 9700 2950 0    50   ~ 0
-D2_G
-Text Label 9700 3150 0    50   ~ 0
-D2_B
-Text Label 9700 3700 0    50   ~ 0
-D3_R
-Text Label 9700 3900 0    50   ~ 0
-D3_G
-Text Label 9700 4100 0    50   ~ 0
-D3_B
 Text Label 10650 1800 0    50   ~ 0
-D5_R
+D2_R
 Text Label 10650 2000 0    50   ~ 0
-D5_G
+D2_G
 Text Label 10650 2200 0    50   ~ 0
+D2_B
+Text Label 9700 2750 0    50   ~ 0
+D3_R
+Text Label 9700 2950 0    50   ~ 0
+D3_G
+Text Label 9700 3150 0    50   ~ 0
+D3_B
+Text Label 9700 3700 0    50   ~ 0
+D5_R
+Text Label 9700 3900 0    50   ~ 0
+D5_G
+Text Label 9700 4100 0    50   ~ 0
 D5_B
 Text Label 10650 2750 0    50   ~ 0
-D6_R
+D4_R
 Text Label 10650 2950 0    50   ~ 0
-D6_G
+D4_G
 Text Label 10650 3150 0    50   ~ 0
-D6_B
+D4_B
 Text Label 10650 3700 0    50   ~ 0
-D7_R
+D6_R
 Text Label 10650 3900 0    50   ~ 0
-D7_G
+D6_G
 Text Label 10650 4100 0    50   ~ 0
-D7_B
+D6_B
 Wire Wire Line
 	9950 1800 9700 1800
 Wire Wire Line
@@ -277,23 +277,23 @@ Wire Wire Line
 Wire Wire Line
 	9950 2200 9700 2200
 Wire Wire Line
+	10900 1800 10650 1800
+Wire Wire Line
+	10900 2000 10650 2000
+Wire Wire Line
+	10900 2200 10650 2200
+Wire Wire Line
 	9950 2750 9700 2750
 Wire Wire Line
 	9950 2950 9700 2950
 Wire Wire Line
-	9950 3150 9700 3150
+	9700 3150 9950 3150
 Wire Wire Line
 	9950 3700 9700 3700
 Wire Wire Line
-	9950 3900 9700 3900
+	9700 3900 9950 3900
 Wire Wire Line
-	9700 4100 9950 4100
-Wire Wire Line
-	10900 1800 10650 1800
-Wire Wire Line
-	10650 2000 10900 2000
-Wire Wire Line
-	10900 2200 10650 2200
+	9950 4100 9700 4100
 Wire Wire Line
 	10650 2750 10900 2750
 Wire Wire Line
@@ -308,100 +308,76 @@ Wire Wire Line
 	10900 4100 10650 4100
 Text Label 9000 1800 2    50   ~ 0
 D1_R
-Text Label 9000 1900 2    50   ~ 0
-D1_G
-Text Label 9000 2000 2    50   ~ 0
-D1_B
-Text Label 9000 2100 2    50   ~ 0
-D2_R
-Text Label 9000 2200 2    50   ~ 0
-D2_G
-Text Label 9000 2300 2    50   ~ 0
-D2_B
-Text Label 9000 2400 2    50   ~ 0
-D3_R
-Text Label 9000 2500 2    50   ~ 0
-D3_G
-Text Label 9000 2600 2    50   ~ 0
-D3_B
 Text Label 9000 2700 2    50   ~ 0
-D4_R
-Text Label 9000 2800 2    50   ~ 0
-D4_G
+D1_G
+Text Label 9000 2600 2    50   ~ 0
+D1_B
+Text Label 9000 1900 2    50   ~ 0
+D2_R
 Text Label 9000 2900 2    50   ~ 0
-D4_B
-Text Label 9000 3000 2    50   ~ 0
-D5_R
+D2_G
+Text Label 9000 2800 2    50   ~ 0
+D2_B
+Text Label 9000 2000 2    50   ~ 0
+D3_R
 Text Label 9000 3100 2    50   ~ 0
-D5_G
-Text Label 9000 3200 2    50   ~ 0
-D5_B
+D3_G
+Text Label 9000 3000 2    50   ~ 0
+D3_B
+Text Label 9000 2100 2    50   ~ 0
+D4_R
 Text Label 9000 3300 2    50   ~ 0
-D6_R
-Text Label 9000 3400 2    50   ~ 0
-D6_G
+D4_G
+Text Label 9000 3200 2    50   ~ 0
+D4_B
+Text Label 9000 2200 2    50   ~ 0
+D5_R
 Text Label 9000 3500 2    50   ~ 0
-D6_B
-Text Label 9000 3600 2    50   ~ 0
-D7_R
+D5_G
+Text Label 9000 3400 2    50   ~ 0
+D5_B
+Text Label 9000 2300 2    50   ~ 0
+D6_R
 Text Label 9000 3700 2    50   ~ 0
-D7_G
-Text Label 9000 3800 2    50   ~ 0
-D7_B
-Text Label 9000 3900 2    50   ~ 0
-D8_R
-Text Label 9000 4000 2    50   ~ 0
-D8_G
-Text Label 9000 4100 2    50   ~ 0
-D8_B
+D6_G
+Text Label 9000 3600 2    50   ~ 0
+D6_B
 Wire Wire Line
 	9000 1800 8750 1800
 Wire Wire Line
-	9000 1900 8750 1900
-Wire Wire Line
-	9000 2000 8750 2000
-Wire Wire Line
-	9000 2100 8750 2100
-Wire Wire Line
-	9000 2200 8750 2200
-Wire Wire Line
-	8750 2300 9000 2300
-Wire Wire Line
-	8750 2400 9000 2400
-Wire Wire Line
-	9000 2500 8750 2500
-Wire Wire Line
-	8750 2600 9000 2600
+	9000 2600 8750 2600
 Wire Wire Line
 	9000 2700 8750 2700
 Wire Wire Line
-	8750 2800 9000 2800
+	9000 1900 8750 1900
+Wire Wire Line
+	9000 2800 8750 2800
 Wire Wire Line
 	8750 2900 9000 2900
 Wire Wire Line
-	8750 3000 9000 3000
+	8750 2000 9000 2000
 Wire Wire Line
-	9000 3100 8750 3100
+	9000 3000 8750 3000
+Wire Wire Line
+	8750 3100 9000 3100
+Wire Wire Line
+	9000 2100 8750 2100
+Wire Wire Line
+	8750 3300 9000 3300
 Wire Wire Line
 	8750 3200 9000 3200
 Wire Wire Line
-	9000 3300 8750 3300
+	8750 2200 9000 2200
+Wire Wire Line
+	9000 3500 8750 3500
 Wire Wire Line
 	8750 3400 9000 3400
 Wire Wire Line
-	8750 3500 9000 3500
-Wire Wire Line
-	8750 3600 9000 3600
+	9000 2300 8750 2300
 Wire Wire Line
 	8750 3700 9000 3700
 Wire Wire Line
-	8750 3900 9000 3900
-Wire Wire Line
-	8750 4000 9000 4000
-Wire Wire Line
-	8750 3800 9000 3800
-Wire Wire Line
-	8750 4100 9000 4100
+	8750 3600 9000 3600
 $Comp
 L Device:R R1
 U 1 1 602C4AB4
@@ -822,15 +798,15 @@ F 3 "" H 4950 1900 50  0001 C CNN
 	1    4950 1900
 	1    0    0    -1  
 $EndComp
-Text Label 1350 3700 0    50   ~ 0
+Text Label 1350 3800 0    50   ~ 0
 LED_OFF
-Text Label 1350 3600 0    50   ~ 0
+Text Label 1350 3900 0    50   ~ 0
 LED_LATCH
 $Comp
-L Device:LED D9
+L Device:LED D7
 U 1 1 604D2B87
 P 1650 6900
-F 0 "D9" H 1641 7116 50  0000 C CNN
+F 0 "D7" H 1641 7116 50  0000 C CNN
 F 1 "LED" H 1641 7025 50  0000 C CNN
 F 2 "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1650 6900 50  0001 C CNN
 F 3 "~" H 1650 6900 50  0001 C CNN
@@ -1499,13 +1475,13 @@ VOL4
 Wire Wire Line
 	1350 2900 2350 2900
 Wire Wire Line
-	2350 3600 1350 3600
+	2350 3900 1350 3900
 Wire Wire Line
 	1350 2600 2350 2600
 Wire Wire Line
 	1350 2700 2350 2700
 Wire Wire Line
-	1350 3700 2350 3700
+	1350 3800 2350 3800
 Wire Wire Line
 	4950 1600 4950 1250
 Wire Wire Line
@@ -1533,14 +1509,14 @@ Wire Wire Line
 	4950 1250 3050 1250
 Text Notes 4150 4700 0    50   ~ 0
 Analog In A0-A11 Pins:\nPA02, PB08, PB09,\nPA04, PA05, PB02,\nPA11, PA10, PA08,\nPA15, PA06, PA07
-Text Label 1350 3800 0    50   ~ 0
+Text Label 1350 3700 0    50   ~ 0
 LED_CLK
-Text Label 1350 3900 0    50   ~ 0
+Text Label 1350 3600 0    50   ~ 0
 LED_DATA
 Wire Wire Line
-	1350 3900 2350 3900
+	1350 3600 2350 3600
 Wire Wire Line
-	1350 3800 2350 3800
+	1350 3700 2350 3700
 $Comp
 L tpa2017:TPA2017 U4
 U 1 1 606FB34E
