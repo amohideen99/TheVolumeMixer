@@ -1468,9 +1468,9 @@ Text Label 1350 2500 0    50   ~ 0
 VOL1
 Text Label 1350 2600 0    50   ~ 0
 VOL2
-Text Label 1350 2700 0    50   ~ 0
-VOL3
 Text Label 1350 2900 0    50   ~ 0
+VOL3
+Text Label 1350 2700 0    50   ~ 0
 VOL4
 Wire Wire Line
 	1350 2900 2350 2900
@@ -1528,7 +1528,7 @@ F 3 "" H 8650 7900 50  0001 C CNN
 	1    8650 7900
 	1    0    0    -1  
 $EndComp
-Text Label 1350 3000 0    50   ~ 0
+Text Label 1350 4000 0    50   ~ 0
 SP_GC1
 Text Label 1350 3400 0    50   ~ 0
 SP_GC2
@@ -1536,8 +1536,6 @@ Text Label 1350 3300 0    50   ~ 0
 EN
 Wire Wire Line
 	1350 3300 2350 3300
-Wire Wire Line
-	1350 3000 2350 3000
 Wire Wire Line
 	1350 3400 2350 3400
 Wire Wire Line
@@ -1989,4 +1987,6 @@ Wire Wire Line
 	9950 9800 10500 9800
 Wire Wire Line
 	1350 4400 2350 4400
+Wire Wire Line
+	1350 4000 2350 4000
 $EndSCHEMATC
