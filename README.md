@@ -1,6 +1,10 @@
 # The Volume Mixer
 control the volume of individual applications with physical volume knobs
 
-based on Arduino. powered by usb. aux jack output to speakers. included speaker amp 3-4 Watts, 4-Ohm Impedance speakers. aux jack for headphones. 4 volume knobs:  game, main volume, spotify, and discord. LED indication for volume. One bar will display volume for a few seconds after a knob is changed. Switch for disconnecting input from amp.
+based on Arduino. powered by usb. included speaker amp 2.8 Watts per channel for 4-Ohm speakers.
 
-SAMD21G18 programmed as an Adafruit Metro M0 Express
+4 volume knobs:  game, main volume, spotify, and discord.
+
+LED indication for volume. One bar will display volume for a few seconds after a knob is changed.
+
+based around SAMD21G18 programmed as an Adafruit Metro M0 Express
