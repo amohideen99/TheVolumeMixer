@@ -116,3 +116,21 @@
 2021-05-02 02:13:00.983	info	deej.serial.com14          	Detected sliders	{"amount": 4}
 2021-05-02 02:19:47.437	info	deej.tray                  	Quit menu item clicked, stopping
 2021-05-02 02:19:47.437	info	deej                       	Stopping
+2021-05-02 02:20:16.639	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-05-02 02:20:16.642	info	deej.config                	Loaded config successfully
+2021-05-02 02:20:16.642	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-02 02:20:16.724	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-02 02:20:16.800	info	deej                       	Run loop starting
+2021-05-02 02:20:16.807	info	deej.serial.com14          	Connected	{"conn": {}}
+2021-05-02 02:20:16.892	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-02 02:20:40.019	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-02 02:27:04.499	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-02 02:27:27.974	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-02 02:28:23.935	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-02 02:29:30.039	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-02 02:29:35.073	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2021-05-02 02:29:35.126	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-02 02:46:37.090	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-02 02:47:22.733	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-02 03:00:51.785	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-02 03:22:12.556	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}

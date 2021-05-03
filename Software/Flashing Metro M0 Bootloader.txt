@@ -5,7 +5,7 @@ Required Hardware / Software
 
 Get bootloader from uf2-samdx github repo
 	- Edit board.config file for Metro M0 and add "#define CRYSTALLESS 1" to the headers
-	- Make the bootloader by going to root directory and running "make board=metro_m0"
+	- Make the bootloader by going to root directory and running "make BOARD=metro_m0"
 	- copy the bootloader.bin file into adalink folder for flashing
 
 Flashing
