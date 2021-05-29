@@ -1145,17 +1145,6 @@ F 3 "~" H 2150 8650 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:+5V #PWR046
-U 1 1 6041DB59
-P 1850 8600
-F 0 "#PWR046" H 1850 8450 50  0001 C CNN
-F 1 "+5V" H 1865 8773 50  0000 C CNN
-F 2 "" H 1850 8600 50  0001 C CNN
-F 3 "" H 1850 8600 50  0001 C CNN
-	1    1850 8600
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR050
 U 1 1 6041DE16
 P 1850 9150
@@ -2040,4 +2029,15 @@ Text Notes 650  2750 0    50   ~ 0
 VOL1 - D8\nVOL2 - D9\nVOL3 - D1\nVOL4 - D4
 Text Notes 650  3350 0    50   ~ 0
 Speaker Amp\n\nEnable - D2\nSP_GC1 - D7\nSP_GC2 - D5
+$Comp
+L power:+3V3 #PWR?
+U 1 1 60B3C6DA
+P 1850 8600
+F 0 "#PWR?" H 1850 8450 50  0001 C CNN
+F 1 "+3V3" H 1865 8773 50  0000 C CNN
+F 2 "" H 1850 8600 50  0001 C CNN
+F 3 "" H 1850 8600 50  0001 C CNN
+	1    1850 8600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

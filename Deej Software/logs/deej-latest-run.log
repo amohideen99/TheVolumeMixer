@@ -633,3 +633,9 @@
 2021-05-28 13:53:19.936	info	deej                       	Run loop starting
 2021-05-28 13:53:19.939	info	deej.serial.com14          	Connected	{"conn": {}}
 2021-05-28 13:53:19.952	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-28 22:12:00.697	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<26 audio sessions>"}
+2021-05-28 22:14:09.585	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-28 23:07:57.255	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-28 23:09:39.672	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-28 23:13:03.903	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-28 23:22:16.973	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
