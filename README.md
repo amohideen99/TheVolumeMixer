@@ -1,10 +1,17 @@
 # The Volume Mixer
-control the volume of individual applications with physical volume knobs
+physically control the volume of your applications
 
-based on Arduino. powered by usb. included speaker amp 2.8 Watts per channel for 4-Ohm speakers.
+### Features
+- four different knobs settable to any applications
+- RGB LED bar indication for volume
+- 2.8 Watts/channel integrated Class D Speaker Amp
+- data and power over single USB
+- runs Arduino as Metro M0 Express
 
-4 volume knobs:  game, main volume, spotify, and discord.
-
-LED indication for volume. One bar will display volume for a few seconds after a knob is changed.
-
-based around SAMD21G18 programmed as an Adafruit Metro M0 Express
+### Default Application Settings
+```
+ Knob 1 - Main Volume
+ Knob 2 - Google Chrome
+ Knob 3 - Discord && Spotify
+ Knob 4 - CS:GO && Valorant
+ ```

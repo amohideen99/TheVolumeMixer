@@ -212,14 +212,14 @@ void printVolumeValues() {
   // create empty string  
   String builtString = String("");
 
-  // build the string
-  builtString += String( (int) analogRead(VOL_1));
+  // build the string mulitply by 0.75 to cap max volume at 75%
+  builtString += String( (int) (analogRead(VOL_1) * 0.75));
   builtString += String("|");
-  builtString += String( (int) analogRead(VOL_2));
+  builtString += String( (int) (analogRead(VOL_2) * 0.75));
   builtString += String("|");
-  builtString += String( (int) analogRead(VOL_3));
+  builtString += String( (int) (analogRead(VOL_3) * 0.75));
   builtString += String("|");
-  builtString += String( (int) analogRead(VOL_4));
+  builtString += String( (int) (analogRead(VOL_4) * 0.75));
   
   // print it to Serial Monitor
   Serial.println(builtString);
