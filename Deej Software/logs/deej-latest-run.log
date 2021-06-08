@@ -639,3 +639,239 @@
 2021-05-28 23:09:39.672	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
 2021-05-28 23:13:03.903	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
 2021-05-28 23:22:16.973	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-29 00:08:55.710	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-29 00:10:26.409	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-05-29 00:36:16.493	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<22 audio sessions>"}
+2021-05-29 01:05:29.626	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<24 audio sessions>"}
+2021-05-29 01:10:08.245	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-29 01:12:45.758	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-29 01:43:16.025	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-29 15:20:19.169	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-05-29 15:20:19.188	info	deej.config                	Loaded config successfully
+2021-05-29 15:20:19.188	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-29 15:20:19.645	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<22 audio sessions>"}
+2021-05-29 15:20:20.216	info	deej                       	Run loop starting
+2021-05-29 15:20:20.226	info	deej.serial.com14          	Connected	{"conn": {}}
+2021-05-29 15:20:20.339	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-29 22:54:04.378	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-29 22:57:17.082	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-05-29 23:06:46.311	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-29 23:10:38.110	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-29 23:25:52.059	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-29 23:50:48.623	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-30 00:22:38.655	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-30 00:28:20.872	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-30 01:34:59.302	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-30 01:35:04.317	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-30 01:36:29.652	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:29.653	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:29.655	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:29.856	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:32.048	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:32.182	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:32.214	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-30 01:36:39.034	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:39.034	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:39.034	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:39.035	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:39.565	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:39.620	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:39.620	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:39.620	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:39.620	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:39.677	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-30 01:36:39.714	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:40.175	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:40.230	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:40.230	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:40.230	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:40.230	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:40.317	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:40.747	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:40.800	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:40.800	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:40.800	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:40.800	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:40.820	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:41.263	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:41.322	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:45.446	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:45.446	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:45.446	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:45.446	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:46.302	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:46.355	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:46.355	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:46.355	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:46.355	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:46.372	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-30 01:36:46.447	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:46.877	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:46.933	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:46.933	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:46.933	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:46.933	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:46.950	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:47.449	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:47.502	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:47.502	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:47.502	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:47.502	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:47.553	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:48.065	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:48.119	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:48.119	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:48.119	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:48.119	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:48.155	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:48.578	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:48.632	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:48.632	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:48.632	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:48.632	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:48.659	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:49.285	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:49.338	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:49.338	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:49.338	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:49.338	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:49.362	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:49.818	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:49.872	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:49.872	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:49.872	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:49.872	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:49.965	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:50.321	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:50.374	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:50.374	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:50.374	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:50.374	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:50.467	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:50.898	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:50.971	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:52.593	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:52.593	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:52.593	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:52.593	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:53.750	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:53.805	info	deej.config                	Loaded config successfully
+2021-05-30 01:36:53.805	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-30 01:36:53.805	info	deej.config                	Reloaded config successfully
+2021-05-30 01:36:53.805	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-05-30 01:36:53.834	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-30 01:36:53.884	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:36:54.261	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-05-30 01:36:54.386	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-30 01:37:38.915	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-30 01:39:38.805	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-30 01:49:33.937	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<22 audio sessions>"}
+2021-05-30 03:13:17.545	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-31 00:47:57.709	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-05-31 00:47:57.720	info	deej.config                	Loaded config successfully
+2021-05-31 00:47:57.720	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-31 00:47:58.718	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<26 audio sessions>"}
+2021-05-31 00:48:03.804	info	deej                       	Run loop starting
+2021-05-31 00:48:03.965	info	deej.serial.com14          	Connected	{"conn": {}}
+2021-05-31 00:48:04.674	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-31 00:48:06.266	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<27 audio sessions>"}
+2021-05-31 01:12:00.654	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-31 01:21:14.621	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-31 03:35:06.671	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-05-31 03:36:47.757	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-05-31 16:07:24.880	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-05-31 16:07:24.911	info	deej.config                	Loaded config successfully
+2021-05-31 16:07:24.911	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-05-31 16:07:25.053	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-05-31 16:07:25.178	info	deej                       	Run loop starting
+2021-05-31 16:07:25.179	info	deej.serial.com14          	Connected	{"conn": {}}
+2021-05-31 16:07:25.273	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-05-31 16:43:01.085	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-31 16:45:11.683	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-31 16:46:44.136	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-31 17:53:54.606	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-31 18:10:50.941	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-05-31 22:33:40.463	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-01 02:17:26.898	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-01 02:22:32.967	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-06-01 02:35:22.037	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-06-01 02:51:45.943	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-06-01 10:30:27.677	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-06-01 10:30:27.698	info	deej.config                	Loaded config successfully
+2021-06-01 10:30:27.698	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-06-01 10:30:27.835	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<23 audio sessions>"}
+2021-06-01 10:30:27.967	info	deej                       	Run loop starting
+2021-06-01 10:30:27.969	info	deej.serial.com14          	Connected	{"conn": {}}
+2021-06-01 10:30:28.014	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-06-01 10:30:58.878	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<25 audio sessions>"}
+2021-06-01 11:07:35.932	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-01 11:30:36.582	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-01 14:28:50.759	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2021-06-02 00:11:23.558	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-06-02 00:14:07.909	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-06-02 00:17:31.639	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-06-02 00:20:47.965	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<27 audio sessions>"}
+2021-06-02 00:21:29.256	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<22 audio sessions>"}
+2021-06-02 00:22:24.144	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<22 audio sessions>"}
+2021-06-02 01:08:39.575	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-06-02 01:09:01.751	warn	deej.sessions.master       	Session expired because default device has changed, triggering session refresh
+2021-06-02 01:09:01.751	warn	deej.sessions              	Failed to set target session volume	{"error": "Trigger session refresh"}
+2021-06-02 01:09:01.818	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-06-02 01:10:29.326	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-06-02 05:47:10.992	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2021-06-02 11:51:42.771	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2021-06-02 13:42:30.351	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-02 16:10:23.340	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-02 16:10:28.377	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-03 07:10:59.627	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2021-06-03 07:33:51.878	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-06-03 07:34:44.131	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2021-06-03 07:43:26.642	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2021-06-03 10:33:06.559	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-06-03 10:33:06.589	info	deej.config                	Loaded config successfully
+2021-06-03 10:33:06.589	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-06-03 10:33:06.761	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<22 audio sessions>"}
+2021-06-03 10:33:06.865	info	deej                       	Run loop starting
+2021-06-03 10:33:06.873	info	deej.serial.com14          	Connected	{"conn": {}}
+2021-06-03 10:33:06.938	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-06-03 11:01:43.775	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-03 11:16:22.576	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-03 11:30:35.338	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-03 12:04:52.851	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2021-06-03 12:05:44.987	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2021-06-03 14:14:01.269	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-06-03 23:59:02.828	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-05 03:10:11.853	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-06-06 00:57:17.322	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<30 audio sessions>"}
+2021-06-06 01:00:39.040	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<29 audio sessions>"}
+2021-06-06 01:35:45.872	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<28 audio sessions>"}
+2021-06-06 01:36:48.193	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<28 audio sessions>"}
+2021-06-06 01:51:32.275	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<27 audio sessions>"}
+2021-06-06 02:46:58.996	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<22 audio sessions>"}
+2021-06-06 13:20:46.703	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-06-06 13:20:47.191	info	deej.config                	Loaded config successfully
+2021-06-06 13:20:47.191	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-06-06 13:20:48.299	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<24 audio sessions>"}
+2021-06-06 13:20:48.646	info	deej                       	Run loop starting
+2021-06-06 13:20:48.657	info	deej.serial.com14          	Connected	{"conn": {}}
+2021-06-06 13:20:48.730	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-06-06 23:40:20.686	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<15 audio sessions>"}
+2021-06-06 23:41:07.168	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-06 23:57:34.973	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2021-06-06 23:58:57.870	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2021-06-07 00:07:13.477	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2021-06-07 22:04:33.884	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2021-06-07 22:04:33.941	info	deej.config                	Loaded config successfully
+2021-06-07 22:04:33.948	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-06-07 22:04:34.698	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<22 audio sessions>"}
+2021-06-07 22:04:37.217	info	deej                       	Run loop starting
+2021-06-07 22:04:37.239	info	deej.serial.com14          	Connected	{"conn": {}}
+2021-06-07 22:04:37.315	info	deej.serial.com14          	Detected sliders	{"amount": 4}
+2021-06-07 23:48:41.551	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2021-06-08 00:04:41.401	info	deej.config                	Loaded config successfully
+2021-06-08 00:04:41.401	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 8 targets>", "connectionInfo": {"COMPort":"COM14","BaudRate":9600}, "invertSliders": false}
+2021-06-08 00:04:41.401	info	deej.config                	Reloaded config successfully
+2021-06-08 00:04:41.402	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2021-06-08 00:04:42.108	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2021-06-08 00:04:42.178	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2021-06-08 00:04:42.252	info	deej.serial.com14          	Detected sliders	{"amount": 4}

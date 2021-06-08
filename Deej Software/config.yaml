@@ -16,6 +16,7 @@ slider_mapping:
     - pathofexile_x64.exe
     - rocketleague.exe
     - csgo.exe
+    - CivilizationVI_DX12.exe
 
 # set this to true if you want the controls inverted (i.e. top is 0%, bottom is 100%)
 invert_sliders: false
