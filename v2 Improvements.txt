@@ -1,4 +1,6 @@
-Want longer and less square
+**** Success Criteria ****
+
+Want longer and less square -- more rectangular
 
 Double or so space between pots so you don't accidentally knock others
 
@@ -9,3 +11,14 @@ Do audio over I2S if possible
 Isolate audio portion of circuit from the digital (major ground loop interference)
 
 Just go crystalless
+
+
+** Solutions **
+
+Digital Audio
+	Audio Amp ==> 
+
+GND Loop Interference
+	
+
+
