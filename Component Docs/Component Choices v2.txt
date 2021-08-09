@@ -1,0 +1,26 @@
+MCU
+
+Necessities: 4 ADC at least, I2S, Arduino Compatibility
+
+  - ESP8266
+    - not enough ADC for all potentiometers
+
+  - NRF52832
+    - enough GPIO
+    - Bluetooth
+    - Wifi (could be interesting feature)
+
+	- SAMD21
+
+
+
+Audio Amp
+
+	- MAX98357
+		- arduino compatible
+		- 16/24/32 bit DAC available
+		- Single Channel or Mono
+
+	- LM4950
+		- 24 bit DAC
+		- Stereo
