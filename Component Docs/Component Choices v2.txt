@@ -10,17 +10,28 @@ Necessities: 4 ADC at least, I2S, Arduino Compatibility
     - Bluetooth
     - Wifi (could be interesting feature)
 
-	- SAMD21
+	- *SAMD21*
 
 
 
 Audio Amp
 
-	- MAX98357
+	- *MAX98357*
 		- arduino compatible
 		- 16/24/32 bit DAC available
 		- Single Channel or Mono
 
-	- LM4950
+	- LM49450
 		- 24 bit DAC
 		- Stereo
+    - 2.5 W per Channel
+    - Digital Volume Control
+    - I2C Interface
+
+  - SSM2518
+    - 2W x 2 Channel (Stereo)
+    - I2C Configuration X
+
+  - TLV320DAC32
+     - I2C X
+     - I2S
