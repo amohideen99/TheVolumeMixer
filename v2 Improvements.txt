@@ -4,13 +4,13 @@ Want longer and less square -- more rectangular
 
 Double or so space between pots so you don't accidentally knock others
 
-Maybe go to 7 or LEDs now that have more space *
+Maybe go to 7 or LEDs now that have more space
 
-Do audio over I2S if possible *
+Do audio over I2S if possible
 
-Isolate audio portion of circuit from the digital (major ground loop interference) *
+Isolate audio portion of circuit from the digital
 
-Just go crystalless (re-attempting crystal)
+Go Crystalless
 
 Mute button for each channel (maybe built into pots)
 
@@ -19,10 +19,10 @@ Mute button for speakers w/ LED indication
 
 ** Solutions **
 
-Digital Audio
 	Audio Amp ==> MAX98357
 
-GND Loop Interference ==> Two supplies
-	
+	Isolate Audio ==> Two supplies, Digital Audio
 
+	Channel Mute ==> Built into Pots
 
+	Speaker Mute ==> Button & LED

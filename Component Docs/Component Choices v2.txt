@@ -2,15 +2,22 @@ MCU
 
 Necessities: 4 ADC at least, I2S, Arduino Compatibility
 
-  - ESP8266
-    - not enough ADC for all potentiometers
+  - ESP32
+    - 13 ADC
+    - 2 I2S Audio
+    - No Integrated USB (need UART to USB converter)
+    - Bluetooth API for A2DP
 
   - NRF52832
     - enough GPIO
     - Bluetooth
     - Wifi (could be interesting feature)
+    - can't find Bluetooth API
 
-	- *SAMD21*
+	- SAMD21
+    - no Bluetooth features
+    - enough ADC's
+    - enough GPIOs
 
 
 
@@ -35,3 +42,7 @@ Audio Amp
   - TLV320DAC32
      - I2C X
      - I2S
+
+Pots
+  - PTV09A-4020F-B203
+    -
