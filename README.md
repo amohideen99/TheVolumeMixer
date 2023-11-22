@@ -15,3 +15,5 @@ physically control the volume of your applications
  Knob 3 - Discord && Spotify
  Knob 4 - CS:GO && Valorant
  ```
+
+![IMG_7639](https://github.com/amohideen99/TheVolumeMixer/assets/78283831/d49be120-f9f0-41f2-8bd3-afceb5901044)
