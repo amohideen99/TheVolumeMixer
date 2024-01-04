@@ -17,17 +17,23 @@ slider_mapping:
     - rocketleague.exe
     - csgo.exe
     - CivilizationVI_DX12.exe
+    - CivilizationVI.exe
     - overwatch.exe
     - AssassinsCreedIIGame.exe
+    - HOI4.exe
     - VALORANT-Win64-Shipping.exe
+    - FortniteClient-Win64-Shipping.exe
+    - cs2.exe
+
+
 
 # set this to true if you want the controls inverted (i.e. top is 0%, bottom is 100%)
 invert_sliders: false
 
 # settings for connecting to the arduino board
-com_port: COM14
+com_port: COM3
 baud_rate: 9600
 
 # adjust the amount of signal noise reduction depending on your hardware quality
 # supported values are "low" (excellent hardware), "default" (regular hardware) or "high" (bad, noisy hardware)
-noise_reduction: default
+noise_reduction: low

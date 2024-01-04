@@ -2,7 +2,12 @@ MCU
 
 Necessities: 4 ADC at least, I2S, Arduino Compatibility
 
-  - ESP32
+  - **ESP32**
+    | will be flashing as TinyPICO for Arduino (https://www.adafruit.com/product/4335#technical-details)
+        needs PICO-D4 MCU
+
+    | will be using online BluetoothA2DPSink for music (https://www.pschatzmann.ch/home/2020/03/27/1255/)
+        need GPIOs 26, 25, 22 for I2S
     - 13 ADC
     - 2 I2S Audio
     - No Integrated USB (need UART to USB converter)
